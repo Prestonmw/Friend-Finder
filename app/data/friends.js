@@ -1,4 +1,3 @@
-// Data structure that will store the friends data
 var friendsArray = [
 	{
 		name: 'Mario',
@@ -121,7 +120,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Bayonetta
+		name: 'Bayonetta',
 		scores: [
 			'5',
 			'5',
